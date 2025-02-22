@@ -1,0 +1,29 @@
+{
+  "manifest": {
+    "author": "Kaiser",
+    "version": "0.0.1",
+    "transparency_mode": 3,
+    "license": "IVE",
+    "name": "I HAVE: EMPATHY"
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1335775821499207815/1342643975974031380/retouch_2025022207465346.jpg?ex=67ba6224&is=67b910a4&hm=def4fdc8f6f0a53bb35f7e6a644bf29d6bac49be622206037de279c4274cb686&",
+    "overlay_alpha": 75,
+    "blur_radius": 1
+  },
+  "simple_colors": {
+    "accent": -1591357,
+    "mention_highlight": -1930971197,
+    "background": 2763306,
+    "input_background": -7384724,
+    "active_channel": -931369,
+    "background_secondary": 2039583,
+    "statusbar": -14013910
+  },
+  "colors": {
+    "link": -1591355
+  },
+  "drawable_tints": {
+    "ic_status_idle_16dp": -3591366
+  }
+}
